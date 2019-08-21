@@ -1,2 +1,2 @@
 # YuDark
-Repositor
+ Repositori
